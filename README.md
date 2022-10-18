@@ -1,4 +1,4 @@
-##Expanded sampling of New Zealand glass sponges (Porifera: Hexactinellida) provides new insights into biodiversity, chemodiversity, and phylogeny of the class
+##Expanded sampling of New Zealand glass sponges (Porifera: Hexactinellida) provides new insights into biodiversity, chemodiversity, and phylogeny of the class##
 
 Martin Dohrmann1,*, Henry M. Reiswig2,†, Michelle Kelly3, Sadie Mills4, Simone Schätzle1, Miriam Reverter5, Natascha Niesse6, Sven Rohde6, Peter Schupp6,7, Gert Wörheide1,8,9
 
@@ -14,6 +14,6 @@ Martin Dohrmann1,*, Henry M. Reiswig2,†, Michelle Kelly3, Sadie Mills4, Simone
 *Corresponding author. Current address: Gottfried-Böhm Ring 31, 81369 München, Germany
 †Deceased
 
-Abstract
+##Abstract##
 
 Glass sponges (Hexactinellida) constitute important parts of ecosystems on the deep-sea floor worldwide. However, they are still an understudied group in terms of their diversity and systematics. Here, we report on new specimens collected during RV Sonne expedition SO254 to the New Zealand region, which has recently emerged as a biodiversity hotspot for hexactinellids. Examination of the material revealed several species new to science or so far unknown from this area. While formal taxonomic descriptions of a fraction of these were published earlier (Reiswig et al. 2021, ZooKeys 1060:33–84), we here briefly report on the morphology of the remaining new species and use the collection to greatly expand the molecular phylogeny of the group as established with ribosomal DNA and cytochrome oxidase subunit I markers. In addition, we provide a chemical fingerprinting analysis on a subset of the specimens to investigate if the metabolome of glass sponges contains phylogenetic signal that could be used to supplement morphological and DNA-based approaches.
