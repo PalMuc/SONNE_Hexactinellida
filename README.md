@@ -1,10 +1,11 @@
 # Data for the paper
 
-## Expanded sampling of New Zealand glass sponges (Porifera: Hexactinellida) provides new insights into biodiversity, chemodiversity, and phylogeny of the class
+## Expanded sampling of New Zealand glass sponges (Porifera: Hexactinellida) provides new insights into biodiversity, chemodiversity, and phylogeny of the class. PeerJ (in press)
 
 Martin Dohrmann1,*, Henry M. Reiswig2,†, Michelle Kelly3, Sadie Mills4, Simone Schätzle1, Miriam Reverter5, Natascha Niesse6, Sven Rohde6, Peter Schupp6,7, Gert Wörheide1,8,9
 
 1Department of Earth and Environmental Sciences, Palaeontology & Geobiology, Ludwig-Maximilians-Universität München, Richard-Wagner-Str. 10, 80333 München, Germany
+
 2Biology Department, University of Victoria, Natural History Section, P.O. Box 3020 Stn CSC, Victoria, British Columbia V8W 3N5
 3Coasts and Oceans National Centre, National Institute of Water & Atmospheric Research, Private Bag 99940, Auckland 1149, New Zealand
 4NIWA Invertebrate Collection, National Institute of Water & Atmospheric Research, Evans Bay Parade, Wellington, New Zealand
