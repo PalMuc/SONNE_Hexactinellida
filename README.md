@@ -1,26 +1,26 @@
 # Data for the paper
 
-## Expanded sampling of New Zealand glass sponges (Porifera: Hexactinellida) provides new insights into biodiversity, chemodiversity, and phylogeny of the class. PeerJ (in press)
+## Expanded sampling of New Zealand glass sponges (Porifera: Hexactinellida) provides new insights into biodiversity, chemodiversity, and phylogeny of the class. PeerJ 11:e15017 http://doi.org/10.7717/peerj.15017
 
-### Martin Dohrmann 1,*, Henry M. Reiswig 2,†, Michelle Kelly 3, Sadie Mills 4, Simone Schätzle 1, Miriam Reverter 5, Natascha Niesse 6, Sven Rohde 6, Peter Schupp 6,7, Gert Wörheide 1,8,9
+### Martin Dohrmann <sup>1,*</sup>, Henry M. Reiswig <sup>2,†</sup>, Michelle Kelly <sup>3</sup>, Sadie Mills <sup>4</sup>, Simone Schätzle <sup>1</sup>, Miriam Reverter <sup>5</sup>, Natascha Niesse <sup>6</sup>, Sven Rohde <sup>6</sup>, Peter Schupp <sup>6,7</sup>, Gert Wörheide <sup>1,8,9</sup>
 
-1 Department of Earth and Environmental Sciences, Palaeontology & Geobiology, Ludwig-Maximilians-Universität München, Richard-Wagner-Str. 10, 80333 München, Germany
+<sup>1</sup> Department of Earth and Environmental Sciences, Palaeontology & Geobiology, Ludwig-Maximilians-Universität München, Richard-Wagner-Str. 10, 80333 München, Germany
 
-2 Biology Department, University of Victoria, Natural History Section, P.O. Box 3020 Stn CSC, Victoria, British Columbia V8W 3N5
+<sup>2</sup> Biology Department, University of Victoria, Natural History Section, P.O. Box 3020 Stn CSC, Victoria, British Columbia V8W 3N5
 
-3 Coasts and Oceans National Centre, National Institute of Water & Atmospheric Research, Private Bag 99940, Auckland 1149, New Zealand
+<sup>3</sup> Coasts and Oceans National Centre, National Institute of Water & Atmospheric Research, Private Bag 99940, Auckland 1149, New Zealand
 
-4 NIWA Invertebrate Collection, National Institute of Water & Atmospheric Research, Evans Bay Parade, Wellington, New Zealand
+<sup>4</sup> NIWA Invertebrate Collection, National Institute of Water & Atmospheric Research, Evans Bay Parade, Wellington, New Zealand
 
-5 School of Biological and Marine Sciences, University of Plymouth, Plymouth PL4 8AA, United Kingdom
+<sup>5</sup> School of Biological and Marine Sciences, University of Plymouth, Plymouth PL4 8AA, United Kingdom
 
-6 ICBM, Carl-von-Ossietzky University of Oldenburg, Schleusenstraße 1, 26382 Wilhelmshaven, Germany
+<sup>6</sup> ICBM, Carl-von-Ossietzky University of Oldenburg, Schleusenstraße 1, 26382 Wilhelmshaven, Germany
 
-7 Helmholtz-Institute for Functional Marine Biodiversity at the University of Oldenburg (HIFMB), Oldenburg, Germany
+<sup>7</sup> Helmholtz-Institute for Functional Marine Biodiversity at the University of Oldenburg (HIFMB), Oldenburg, Germany
 
-8 GeoBio-Center, Ludwig-Maximilians-Universität München, Richard-Wagner-Str. 10, 80333 Munich, Germany
+<sup>8</sup> GeoBio-Center, Ludwig-Maximilians-Universität München, Richard-Wagner-Str. 10, 80333 Munich, Germany
 
-9 SNSB – Bayerische Staatssammlung für Paläontologie und Geologie, Richard-Wagner-Str. 10, 80333 München, Germany
+<sup>9</sup> SNSB – Bayerische Staatssammlung für Paläontologie und Geologie, Richard-Wagner-Str. 10, 80333 München, Germany
 
 *Corresponding author. Current address: Gottfried-Böhm Ring 31, 81369 München, Germany
 
